@@ -40,3 +40,4 @@ Implementación:
 •	Desarrollar el código en una Jupyter Notebook para demostrar la funcionalidad del asistente con Fast Prompting.
 •	Mostrar ejemplos de prompts generados para la planificación de comidas y sugerencias de recetas.
 
+
