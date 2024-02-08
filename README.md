@@ -1,5 +1,8 @@
 # Entrega
-Agustin Rojas 										Comisión 61255 
+
+Agustin Rojas 									                      	Comisión 61255 
+
+
 Inteligencia Artificia: Generación de Prompts
 
 Comidas Prompto
